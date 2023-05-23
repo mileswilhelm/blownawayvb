@@ -641,7 +641,7 @@ video {
 }
 
 .h-\[75px\] {
-  height: 75px;
+  height: 70px;
 }
 
 .h-auto {
@@ -653,7 +653,7 @@ video {
 }
 
 .w-1\/2 {
-  width: 50%;
+  width: 60%;
 }
 
 .w-auto {
@@ -697,8 +697,8 @@ video {
 }
 
 .gap-x-1 {
-  -moz-column-gap: 0.25rem;
-       column-gap: 0.25rem;
+  -moz-column-gap: 3px;
+       column-gap: 3px;
 }
 
 .gap-x-3 {
