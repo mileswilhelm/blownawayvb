@@ -10,6 +10,7 @@ html {
 
 body {
   background: #FEEFEF;
+  background: linear-gradient(235deg, #fccaca, #FEEFEF, #fde2e2);
   line-height: 1.5;
   margin: 0;
   padding: 0;
